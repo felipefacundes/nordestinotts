@@ -90,4 +90,4 @@ cp /etc/xdg/autostart/onboard-autostart.desktop ~/.config/autostart/
 <br></br>
 
 ###### NordestinoTTS é uma homenagem, ao povo brasileiro nordestino. Pessoas maravilhosas, hospitaleiras e alegres. ######
-#### Licence: GPLv3 ####
+#### Licença: GPLv3 ####
